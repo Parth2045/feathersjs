@@ -1,0 +1,29 @@
+{
+  "name": "feathersjs",
+  "version": "1.0.0",
+  "description": "feathersjs exploration",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parth2045/feathersjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parth2045/feathersjs/issues"
+  },
+  "homepage": "https://github.com/Parth2045/feathersjs#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@feathersjs/feathers": "^5.0.35"
+  }
+}
